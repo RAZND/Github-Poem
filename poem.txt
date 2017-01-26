@@ -6,6 +6,10 @@ Repo,
 This is
 a Repo...
 
+Do you want to commit to this repo?
+I don't know?
+Ok!
+
 Let's commit to this
 Repo!
 
@@ -14,4 +18,15 @@ Repo!
 REPO!
 
 
+
 I ADDED THIS!
+REPOOOOOOOOOOO
+
+Is this the real life...
+
+Is this just fantasy?
+
+Oh! I wanna dance with somebody
+I wanna feel the heat with somebody
+Yeah! I wanna dance with somebody
+With somebody who loves me
