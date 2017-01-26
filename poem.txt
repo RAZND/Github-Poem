@@ -13,6 +13,6 @@ Ok!
 Let's commit to this
 Repo!
 
-Repo!
-Repo!
+Repo
+Repo
 REPO!
